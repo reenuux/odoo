@@ -477,7 +477,7 @@
 
         <record id="CDF" model="res.currency">
             <field name="name">CDF</field>
-            <field name="symbol">Fr</field>
+            <field name="symbol">Fc</field>
             <field name="rounding">0.01</field>
             <field name="active" eval="False"/>
         </record>
